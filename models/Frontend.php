@@ -51,7 +51,7 @@ class ABH_Models_Frontend {
      */
     public function getProfileImage() {
         if (isset($this->details['abh_gravatar']) && $this->details['abh_gravatar'] <> '' && file_exists(_ABH_GRAVATAR_DIR_ . $this->details['abh_gravatar'])) {
-            return '<img src="' . _ABH_GRAVATAR_URL_ . $this->details['abh_gravatar'] . '" class="photo" width="80" />';
+            return '<img src="' . _ABH_GRAVATAR_URL_ . $this->details['abh_gravatar'] . '" class="photo" width="80" alt="' . $this->author->display_name . '" />';
         } else {
             return get_avatar($this->author->ID, 80);
         }

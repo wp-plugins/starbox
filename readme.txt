@@ -106,6 +106,7 @@ Download it from the Wordpress directory and try it out. Having an author box af
 == Changelog ==
 = 3.0.3 =
 * Added the Brazilian Portuguese Language by Anderson Blaine
+* Added styles for more themes
 * Compatible with WP 4.2.2
 
 = 3.0.2 =

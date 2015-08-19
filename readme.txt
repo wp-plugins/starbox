@@ -2,7 +2,7 @@
 Contributors: cifi, calinvingan, florinmuresan
 Tags: author box‎,author,twitter,sidebar,images,shortcode,publisher,meta,post,posts,page,pages,google,facebook,snippet,plugin,html5,vcard,klout,users,user,author box,rich snippet,author bio, author bio box,bio,widget,comments,blog,content,email,image,linkedin,marketing,mobile,pinterest,profile,shortcodes,social,social media,wordpress
 Requires at least: 3.5
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: trunk
 Donate link: http://starbox.squirrly.co/starbox-the-author-box-for-humans/
 
@@ -107,7 +107,7 @@ Download it from the Wordpress directory and try it out. Having an author box af
 = 3.0.3 =
 * Added the Brazilian Portuguese Language by Anderson Blaine
 * Added styles for more themes
-* Compatible with WP 4.2.2
+* Compatible with WP 4.3
 
 = 3.0.2 =
 * Compatible with WP 4.1.1

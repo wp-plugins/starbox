@@ -14,7 +14,7 @@ Starbox is the Author Box for Humans. Professional Themes to choose from, HTML5,
 If you want more Social Icons and Premium Support, that also comes with High Priority, go to:
 http://starbox.squirrly.co/product/starbox-the-author-box-for-humans/
 We added new features in the PRO version like: keep the user custom image in all the site
-
+ 
 **Starbox is the Author Box for Humans**
 
 While search engines and other software that read your site care about files like robots.txt, you need Human readers to actually engage with your content and fall in love with it.
@@ -190,7 +190,9 @@ And more than that, you can add a default theme for author box <strong>[starbox 
 = How can i add multiple author boxes to a post? =
 You can use startbox shortcode at the bottom of the content like this:
 [starbox id="john,david"] where john and david are the username of the authors
+
 or
+
 [starbox id="1,2..n"] where 1,2, .. n are the ID of the authors
 
 = Is your team dedicated to this plugin? =

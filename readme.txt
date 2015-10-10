@@ -4,19 +4,17 @@ Tags: author box‎,author,twitter,sidebar,images,shortcode,publisher,meta,post,
 Requires at least: 3.5
 Tested up to: 4.3
 Stable tag: trunk
-Donate link: http://starbox.squirrly.co/starbox-the-author-box-for-humans/
+Donate link:  http://starbox.squirrly.co/starbox-the-author-box-for-humans/
 
 Starbox is the Author Box for Humans. Professional Themes to choose from, HTML5, Social Media Profiles, Google Authorship
 
 == Description ==
-
 **How Do I Get Support For This Plugin?**
 If you want more Social Icons and Premium Support, that also comes with High Priority, go to:
 http://starbox.squirrly.co/product/starbox-the-author-box-for-humans/
 We added new features in the PRO version like: keep the user custom image in all the site
  
 **Starbox is the Author Box for Humans**
-
 While search engines and other software that read your site care about files like robots.txt, you need Human readers to actually engage with your content and fall in love with it.
 
 Humans look at beauty more than anything else (as you most probably already know, men and women alike). That's why you'll get an <strong>Author Box that's gorgeous to look at and it makes your readers click all the way through</strong> to see more about the Authors.
@@ -102,9 +100,9 @@ Download it from the Wordpress directory and try it out. Having an author box af
 15. Author Box with Fancy Theme
 16. Author Box with Drop-Down Theme
 
-
 == Changelog ==
 = 3.0.4  =
+
 * Compatible with WP 4.3.1
 
 = 3.0.3 =
@@ -193,7 +191,7 @@ You can use startbox shortcode at the bottom of the content like this:
 
 or
 
-[starbox id="1,2..n"] where 1,2, .. n are the ID of the authors
+[starbox id="1,2..n"] where 1,2 .. n are the ID of the authors
 
-= Is your team dedicated to this plugin? =
+=Is your team dedicated to this plugin? =
 You can count on it :-) Our team of 8 people over at Squirrly (registered in the UK) are focused on making both our wordpress seo plugin and our author box plugin the best there are. So far we succeeded in making them one of the most popular, because we listen to your feedback and you're the reason for their success.

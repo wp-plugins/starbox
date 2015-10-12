@@ -193,5 +193,5 @@ or
 
 [starbox id="1,2..n"] where 1,2 .. n are the ID of the authors
 
-=Is your team dedicated to this plugin? =
+= Is your team dedicated to this plugin? =
 You can count on it :-) Our team of 8 people over at Squirrly (registered in the UK) are focused on making both our wordpress seo plugin and our author box plugin the best there are. So far we succeeded in making them one of the most popular, because we listen to your feedback and you're the reason for their success.

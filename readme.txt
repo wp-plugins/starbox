@@ -185,6 +185,7 @@ Just add <strong>[starbox]</strong> or <strong>[starbox id="login_name"]</strong
 You can also add different description for the author box, by adding <strong>[starbox id="login_name" desc="custom description" ]</strong>
 And more than that, you can add a default theme for author box <strong>[starbox id="login_name" desc="custom description"  theme="business"]</strong>
 
+
 = How can i add multiple author boxes to a post? =
 You can use startbox shortcode at the bottom of the content like this:
 [starbox id="john,david"] where john and david are the username of the authors

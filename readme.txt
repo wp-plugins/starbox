@@ -19,7 +19,9 @@ While search engines and other software that read your site care about files lik
 
 Humans look at beauty more than anything else (as you most probably already know, men and women alike). That's why you'll get an <strong>Author Box that's gorgeous to look at and it makes your readers click all the way through</strong> to see more about the Authors.
 
+
 Now, if you have just yourself as an Author on your site, or a super-star team of Authors, you'll love Starbox. You can <strong>choose from the professionaly built themes and landscaping</strong>. If you are the super-star type, or want to boost social proof, place your Author Box on top of the page, so that your Human readers will know that they're reading stuff that a real awesome person has written.
+
 
 You want the classy, bottom-of-the-page Author Box? You can choose that one as well.
 
@@ -58,7 +60,6 @@ If you're doing the tech stuff on your site or want to know what Starbox's inner
 * Special Pages for your authors
 * Works even with sites that have woocommerce or other ecommerce plugins
 * Add Starbox in your post's content or wordpress widgets using the shortcode [starbox] or [starbox id=USER_ID]
-
 
 So get your very own Starbox now:
 
@@ -184,7 +185,6 @@ After you buy it, it will show you the email on which you can write to us for Pr
 Just add <strong>[starbox]</strong> or <strong>[starbox id="login_name"]</strong> in your post or widget..
 You can also add different description for the author box, by adding <strong>[starbox id="login_name" desc="custom description" ]</strong>
 And more than that, you can add a default theme for author box <strong>[starbox id="login_name" desc="custom description"  theme="business"]</strong>
-
 
 = How can i add multiple author boxes to a post? =
 You can use startbox shortcode at the bottom of the content like this:

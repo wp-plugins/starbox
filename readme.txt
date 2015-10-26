@@ -1,4 +1,4 @@
-﻿=== Starbox - the Author Box for Humans ===
+﻿==== Starbox - the Author Box for Humans ====
 Contributors: cifi, calinvingan, florinmuresan
 Tags: author box‎,author,twitter,sidebar,images,shortcode,publisher,meta,post,posts,page,pages,google,facebook,snippet,plugin,html5,vcard,klout,users,user,author box,rich snippet,author bio, author bio box,bio,widget,comments,blog,content,email,image,linkedin,marketing,mobile,pinterest,profile,shortcodes,social,social media,wordpress
 Requires at least: 3.5

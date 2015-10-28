@@ -22,7 +22,6 @@ Humans look at beauty more than anything else (as you most probably already know
 
 Now, if you have just yourself as an Author on your site, or a super-star team of Authors, you'll love Starbox. You can <strong>choose from the professionaly built themes and landscaping</strong>. If you are the super-star type, or want to boost social proof, place your Author Box on top of the page, so that your Human readers will know that they're reading stuff that a real awesome person has written.
 
-
 You want the classy, bottom-of-the-page Author Box? You can choose that one as well.
 
 And if your star Authors want different things, satisfy their needs by allowing them to place their Author Box at the top or bottom, with the default theme, or a better looking one. You can make each of them shine in their own way.

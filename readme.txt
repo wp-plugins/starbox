@@ -104,7 +104,6 @@ Download it from the Wordpress directory and try it out. Having an author box af
 = 3.0.4  =
 
 * Compatible with WP 4.3.1
-
 = 3.0.3 =
 * Added the Brazilian Portuguese Language by Anderson Blaine
 * Added styles for more themes

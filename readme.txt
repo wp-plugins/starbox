@@ -9,7 +9,7 @@ Donate link:  http://starbox.squirrly.co/starbox-the-author-box-for-humans/
 Starbox is the Author Box for Humans. Professional Themes to choose from, HTML5, Social Media Profiles, Google Authorship
 
 == Description ==
-**How Do I Get Support For This Plugin?**
+ **How Do I Get Support For This Plugin?**
 If you want more Social Icons and Premium Support, that also comes with High Priority, go to:
 http://starbox.squirrly.co/product/starbox-the-author-box-for-humans/
 We added new features in the PRO version like: keep the user custom image in all the site

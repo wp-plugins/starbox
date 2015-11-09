@@ -72,6 +72,7 @@ So get your very own Starbox now:
 
 Download it from the Wordpress directory and try it out. Having an author box after posts will certainly increase engagement and help your authors grow their authority on the web.
 
+
 === Installation ===
 1. Log In as an Admin on your Wordpress blog.
 2. In the menu displayed on the left, there is a "Plugins" tab. Click it.

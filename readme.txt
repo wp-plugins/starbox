@@ -19,7 +19,6 @@ While search engines and other software that read your site care about files lik
 
 Humans look at beauty more than anything else (as you most probably already know, men and women alike). That's why you'll get an <strong>Author Box that's gorgeous to look at and it makes your readers click all the way through</strong> to see more about the Authors.
 
-
 Now, if you have just yourself as an Author on your site, or a super-star team of Authors, you'll love Starbox. You can <strong>choose from the professionaly built themes and landscaping</strong>. If you are the super-star type, or want to boost social proof, place your Author Box on top of the page, so that your Human readers will know that they're reading stuff that a real awesome person has written.
 
 You want the classy, bottom-of-the-page Author Box? You can choose that one as well.

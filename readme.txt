@@ -186,7 +186,9 @@ And more than that, you can add a default theme for author box <strong>[starbox 
 You can use startbox shortcode at the bottom of the content like this:
 [starbox id="john,david"] where john and david are the username of the authors
 
+
 or
+
 
 [starbox id="1,2,3..n"] where 1,2,3 .. n are the ID of the authors
 

@@ -98,7 +98,6 @@ Download it from the Wordpress directory and try it out. Having an author box af
 15. Author Box with Fancy Theme
 16. Author Box with Drop-Down Theme
 
-
 == Changelog ==
 = 3.0.4  =
 

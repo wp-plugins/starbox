@@ -59,6 +59,7 @@ If you're doing the tech stuff on your site or want to know what Starbox's inner
 * Works even with sites that have woocommerce or other ecommerce plugins
 * Add Starbox in your post's content or wordpress widgets using the shortcode [starbox] or [starbox id=USER_ID]
 
+
 So get your very own Starbox now:
 
 1. Your Authors will become real Stars

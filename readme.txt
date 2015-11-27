@@ -81,7 +81,7 @@ Download it from the Wordpress directory and try it out. Having an author box af
 6. After the upload is finished, click Activate Plugin.
 7. Done :-) You'll see that this is as advertized.
 
-=== Screenshots ===
+== Screenshots ==
 1. Author Box with Business Theme
 2. Author Bio Box with Business Theme
 3. Author Box Settings
